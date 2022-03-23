@@ -1,4 +1,9 @@
-# Getting Started with Create React App
+# Getting Started with Create React App (updated)
+
+
+## I will read completely [reactjs.org](https://reactjs.org/docs/getting-started.html#learn-react)
+<!-- @import "[TOC]" {cmd="toc" depthFrom=1 depthTo=6 orderedList=false} -->
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
